@@ -14,3 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+
+### Thumbnail
+
+![ScreenShot](https://github.com/UmerSharif/vuejs-fullstack/blob/master/vuejsfullstack.png)
